@@ -14,6 +14,7 @@ yarn dev
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 HOMEPAGE:
+
 ![image](https://github.com/user-attachments/assets/d75fb2a8-e3cb-4425-9885-6d6ed45e7e6c)
 
 CHECKOUT PAGE:
